@@ -1,3 +1,13 @@
+---
+layout: post
+title: Effective Java 2장 규칙2. 생성자 인자가 많을 경우, Builder 패턴을 적용하라
+date: 2021-02-20 17:03:00
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: effective-java.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Effective Java2]
+---
+
 ### Effective Java 2장 객체의 생성과 삭제
 
 #### **규칙 2. 생성자 인자가 많을 경우, Builder 패턴 적용하라**
